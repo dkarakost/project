@@ -21,6 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -33,45 +36,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.debbuging.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dict_lesson.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dictionaries_excersices.executor&quot;: &quot;Run&quot;,
-    &quot;Python.email_slicer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.excersice psounis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercises.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercises2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.face_detection.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if_statements_psounis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.listesandloops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.poker.executor&quot;: &quot;Run&quot;,
-    &quot;Python.project2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_game.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rock_Scissors_Paper.executor&quot;: &quot;Run&quot;,
-    &quot;Python.strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.synola.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tensors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testing_agricultural.executor&quot;: &quot;Run&quot;,
-    &quot;Python.weatherapp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.debbuging.executor": "Run",
+    "Python.dict_lesson.executor": "Run",
+    "Python.dictionaries_excersices.executor": "Run",
+    "Python.email_slicer.executor": "Run",
+    "Python.excersice psounis.executor": "Run",
+    "Python.exercise3.executor": "Run",
+    "Python.exercise4.executor": "Run",
+    "Python.exercise5.executor": "Run",
+    "Python.exercises.executor": "Run",
+    "Python.exercises2.executor": "Run",
+    "Python.face_detection.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.if_statements_psounis.executor": "Run",
+    "Python.listes.executor": "Run",
+    "Python.listesandloops.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.poker.executor": "Run",
+    "Python.project2.executor": "Run",
+    "Python.python_game.executor": "Run",
+    "Python.rock_Scissors_Paper.executor": "Run",
+    "Python.strings.executor": "Run",
+    "Python.synola.executor": "Run",
+    "Python.tensors.executor": "Run",
+    "Python.testing.executor": "Run",
+    "Python.testing_agricultural.executor": "Run",
+    "Python.weatherapp.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\pasat\OneDrive\Υπολογιστής\Project.github\projects\project2" />
